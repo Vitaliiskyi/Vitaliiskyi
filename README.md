@@ -7,6 +7,8 @@
 <p><h4 align="center">&#129299; I’m currently learning Machine Learning and Computer Vision in particular</h4></p>
 
 <p><h4 align="left">&#129299; Dreaming of diving into MLOps</h4></p>
+<p><h4 align="left">https://www.codewars.com/users/pskaro/badges/large</h4></p>
+https://www.codewars.com/users/pskaro/badges/large
 
 
 <h4 align="left">Contacts</h4>
