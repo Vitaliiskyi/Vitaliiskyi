@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Novice specialist in the field of ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ from ua</h3>
 
-<p><h4 align="center">&#129299; I’m currently learning</h4></p>
+<p><h4 align="center">&#129299; I’m currently learning Machine Learning and Computer Vision in particular, and dreaming of diving into MLOps</h4></p>
 <h4 align="center">👯 I’m looking to collaborate on</h4>
 <p>&#128512;</p>
 <p>&#128512;</p>
