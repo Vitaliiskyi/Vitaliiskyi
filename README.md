@@ -10,8 +10,7 @@
 
 [![codewars](https://www.codewars.com/users/pskaro/badges/large)](https://www.codewars.com/users/pskaro)  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pskaro)](https://github.com/pskaro/github-readme-activity-graph)
-
+[![Vitalii's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vitaliiskyi&theme=dracula)](https://github.com/Vitaliiskyi/github-readme-activity-graph)
 
 <h4 align="left">Contacts</h4>
 <p>&#128512;</p>
