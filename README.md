@@ -10,6 +10,9 @@
 
 [![codewars](https://www.codewars.com/users/pskaro/badges/large)](https://www.codewars.com/users/pskaro)  
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pskaro)](https://github.com/pskaro/github-readme-activity-graph)
+
+
 <h4 align="left">Contacts</h4>
 <p>&#128512;</p>
 <p>&#128512;</p>
