@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vitalii-vilkhivskyi/" target="_blank">Vitalii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Novice specialist in the field of Data Science & Machine Learning from ua</h3>
-
+<h3 align="center">Novice specialist in the field of ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ from ua</h3>
 
 <!--
 **Vitaliiskyi/Vitaliiskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
