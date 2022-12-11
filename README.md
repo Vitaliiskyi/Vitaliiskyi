@@ -4,6 +4,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Novice specialist in the field of ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ from ua</h3>
 
+<h3 align="center">🌱 I’m currently learning</h3>
+<h3 align="center">👯 I’m looking to collaborate on</h3>
+<h3 align="center">Novice specialist in the field of ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ & ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ from ua</h3>
+
 <!--
 **Vitaliiskyi/Vitaliiskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
