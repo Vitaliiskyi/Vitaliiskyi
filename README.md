@@ -8,6 +8,7 @@
 <h4 align="center">👯 I’m looking to collaborate on</h4>
 <p>&#128512;</p>
 <p>&#128512;</p>
+<p>&#129299;</p>
 
 <!--
 **Vitaliiskyi/Vitaliiskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
